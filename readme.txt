@@ -6,4 +6,6 @@ Git tracks changes of files.
 I just add this sentence in my MAC.
 this is add to branch b
 
+
 feature1:Creating a new branch is quick & simple.
+
